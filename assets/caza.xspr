@@ -1,0 +1,44 @@
+<msxdevtools app="spriteSX devtool" version="0.9.4.0">
+  <palette name="Default Palette" group="" version="" author="">
+    <color id="0" red="0" green="0" blue="0" />
+    <color id="1" red="0" green="0" blue="0" />
+    <color id="2" red="2" green="5" blue="2" />
+    <color id="3" red="3" green="6" blue="3" />
+    <color id="4" red="2" green="2" blue="5" />
+    <color id="5" red="3" green="3" blue="7" />
+    <color id="6" red="5" green="2" blue="1" />
+    <color id="7" red="2" green="6" blue="7" />
+    <color id="8" red="6" green="2" blue="2" />
+    <color id="9" red="7" green="3" blue="3" />
+    <color id="10" red="6" green="6" blue="3" />
+    <color id="11" red="6" green="6" blue="4" />
+    <color id="12" red="1" green="4" blue="1" />
+    <color id="13" red="5" green="3" blue="5" />
+    <color id="14" red="6" green="6" blue="6" />
+    <color id="15" red="7" green="7" blue="7" />
+  </palette>
+  <sprites name="caza2" version="" group="" author="" startDate="637274304000000000" lastUpdate="637275168000000000" mode="2" type="2">
+    <description>
+    </description>
+    <item name="" order="4" type="2" mode="2" InkColor="15" BGcolor="0">
+      <gfxData>0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,128,192,96,96,192,128,0,0,0,0,0</gfxData>
+      <colorData>15,15,15,15,15,8,8,8,8,8,8,15,15,15,15,15</colorData>
+    </item>
+    <item name="" order="0" type="2" mode="2" InkColor="4" BGcolor="0">
+      <gfxData>0,0,0,32,32,48,56,31,63,63,7,7,63,0,0,0,0,0,0,0,0,0,56,252,255,240,224,192,192,0,0,0</gfxData>
+      <colorData>68,68,68,74,74,74,68,72,72,72,68,68,74,68,68,68</colorData>
+    </item>
+    <item name="" order="2" type="2" mode="2" InkColor="12" BGcolor="0">
+      <gfxData>63,31,14,15,3,3,7,127,127,7,3,7,15,14,31,63,192,0,0,0,128,128,240,255,248,240,128,128,0,0,0,192</gfxData>
+      <colorData>10,4,4,4,4,4,4,8,8,4,4,4,4,4,4,10</colorData>
+    </item>
+    <item name="" order="1" type="2" mode="2" InkColor="12" BGcolor="0">
+      <gfxData>0,0,0,0,0,0,0,255,255,0,0,0,0,0,0,0,0,0,0,0,0,0,0,255,255,0,0,0,0,0,0,0</gfxData>
+      <colorData>76,76,76,76,76,76,76,76,76,76,76,76,76,76,76,76</colorData>
+    </item>
+    <item name="" order="3" type="2" mode="2" InkColor="12" BGcolor="0">
+      <gfxData>0,0,0,0,0,63,7,127,127,7,63,0,0,0,0,0,0,0,0,0,0,192,240,255,248,240,192,0,0,0,0,0</gfxData>
+      <colorData>10,4,4,4,4,10,4,8,8,4,11,4,4,4,4,10</colorData>
+    </item>
+  </sprites>
+</msxdevtools>
